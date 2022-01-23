@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFYmlZko9yNxMhQJO6cNEnF1WuFj/lLTGNNTo31/qrjfYQSEqqVPZfoYTMBvtPCHF0kcIXr8xE/KdNYXId14eg==",
+  "success": true,
+  "projectFilePath": "D:\\EasySaveVS\\EasySave\\EasySave\\EasySave.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\etien\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
